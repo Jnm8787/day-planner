@@ -4,13 +4,11 @@
 
 ![GitHub code size in bytes](05-third-party-apis-homework-demo.gif)
 
-* [Moment.js](https://momentjs.com/)
+ [Day Planner](https://jnm8787.github.io/day-planner/)
 
 ## Installation
 
 An application that will run in the browser and feature updated HTML and CSS powered by JQuery. The application includes polished UI and is responsive, ensuring adaptation to multiple screen sizes.
-
-
 
 ## Description
 
@@ -19,10 +17,8 @@ the sole collaborator on this assignment.
 
 ## Third Party Assets
 
-
 * [font awesome](https://fontawesome.com/)
   
 * [bootstrap](https://getbootstrap.com/)
   
 * [moment.js](https://momentjs.com/)
-
