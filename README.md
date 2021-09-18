@@ -1,7 +1,7 @@
 # day-planner
 
-
-# 05 Third Party APIs - Homework: Work Day Scheduler (Day Planner)
+# 05 Third Party APIs 
+# Homework: Work Day Scheduler (Day Planner)
 
 [Day Planner](https://jnm8787.github.io/day-planner/)
 
